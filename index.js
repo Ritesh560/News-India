@@ -1,5 +1,4 @@
 console.log('Welcome to News India')
-// API key ---> c39bf8b47376418c84fa87f6c6deae72
 
 //news container
 let accordian = document.getElementById('accordion');
